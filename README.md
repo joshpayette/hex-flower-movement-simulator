@@ -1,6 +1,6 @@
 # Hex Movement Simulator
 
-The Nex Flower Movement Simulator is used to simulate X number of turns of player
+The Hex Flower Movement Simulator is used to simulate X number of turns of player
 movement throughout a hex grid. The simulator uses a config file to determine the
 starting position, number of turns to simulate, and the blockers and teleporters. The
 script then outputs the number of times the player landed on each tile, as well as
